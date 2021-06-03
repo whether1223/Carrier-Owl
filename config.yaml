@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:eess.AS'
+subject: 'cat:eess.AS OR cat:eess.SP'
 
 # 検索キーワード
 keywords:
