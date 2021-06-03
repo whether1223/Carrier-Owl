@@ -4,10 +4,11 @@ subject: 'cat:eess.AS'
 # 検索キーワード
 keywords:
         independent vector extraction: 1
-        dereverberation: 1
-        online: 1
-        Geometric Constraint: 1
+        IVE: 1
+        dereverberation: 2
+        online: 2
+        Geometric Constraint: 2
         
 
 # 通知の閾値
-score_threshold: 2
+score_threshold: 3
