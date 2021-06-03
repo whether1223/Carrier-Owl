@@ -3,9 +3,12 @@ subject: 'cat:eess.SP OR cat:eess.AS'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        IVE: 1        
+        dereverberation: 1
+        online: 1
+        overdetermined: 1
+        Geometric Constraint: 1
+        
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
