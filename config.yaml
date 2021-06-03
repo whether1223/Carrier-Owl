@@ -3,12 +3,11 @@ subject: 'cat:eess.SP OR cat:eess.AS'
 
 # 検索キーワード
 keywords:
-        IVE: 1        
+        independent vector extraction: 1
         dereverberation: 1
         online: 1
-        overdetermined: 1
         Geometric Constraint: 1
         
 
 # 通知の閾値
-score_threshold: 1
+score_threshold: 2
