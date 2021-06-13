@@ -3,7 +3,7 @@ subject: 'cat:eess.AS OR cat:eess.SP'
 
 # 検索キーワード
 keywords:
-        source separation: 2
+        source separation: 1
         independent vector extraction: 1
         dereverberation: 1
         online: 1
@@ -11,4 +11,4 @@ keywords:
         
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 1
